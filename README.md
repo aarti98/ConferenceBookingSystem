@@ -6,7 +6,7 @@ This is a Python-based conference room booking system for a single building with
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/my-project.git
+   git clone https://github.com/aarti98/ConferenceBookingSystem.git
 
 2. cd ConfRoomBooking
 3. python -m env_conference venv
